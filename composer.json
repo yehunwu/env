@@ -1,0 +1,19 @@
+{
+    "name": "yehunwu/env",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "yehunwu",
+            "email": "3133455855@qq.com"
+        }
+    ],
+    "require": {
+    	"php":">=7.2"
+    },
+	"minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {
+			"Yehunwu\\env\\": "src/"
+		}
+	}
+}
